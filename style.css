@@ -1,0 +1,21 @@
+
+body{
+    background-size: cover;
+}
+.div_speed{
+   float: left;
+
+}
+
+.disk_speed_img,.disk_vol_img{
+    width: 200px;
+    border-radius: 50%;
+}
+#speed, #vol{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_vol{
+    float: right;
+ 
+ }
